@@ -1,0 +1,27 @@
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: #37c64f;
+    font-weight: 400;
+    font-size: large;
+}
+.Heading_1{
+    font-size: 150px;
+}
+
+.contact-form-color{
+    background-color: rgb(194, 196, 198);
+}
+
+
+.flex-container {
+    display: flex;
+    justify-content: center;  
+    align-items: center;     
+}
+.flex-container iframe {
+    width: 100%;
+    max-width: 100%;
+    min-height: 400px;
+    height: auto;
+}
+
+  
